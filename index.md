@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-date:2025-08-19
+date: 2025-08-19
 ---
 # This is a practiced github page 
 ## The following is the detail about my day
